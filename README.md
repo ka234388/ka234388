@@ -9,7 +9,7 @@
 ---
 
 ### 🔍 About Me  
-I’m a Master’s student in Artificial Intelligence at the University of Central Florida, specializing in **Computer Vision** and **Agentic AI**.  
+I’m a Master’s student in Artificial Intelligence at the University of Central Florida, specializing in **Computer Vision**.  
 My work blends **deep learning**, **machine learning fine-tuning**, and **agent-based automation** to design intelligent systems that *see, think, and act autonomously*.  
 
 As a **Graduate Research Assistant**, I develop scalable vision pipelines and train fine-tuned AI models for real-time analytics, multimodal reasoning, and autonomous decision-making.  
