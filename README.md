@@ -19,6 +19,12 @@ My background bridges both **research and industry**, focusing on deploying robu
 
 ### 🧩 Highlight Projects  
 
+🧠 **Visual Agent with Explainable Action Decisions**  
+Built a vision-based computer-use agent that orchestrates a GPT-5.1 VLM with a perception–reasoning–action pipeline for autonomous, explainable UI form-filling on real desktops.[file:2]  
+
+🚀 Implemented a FastAPI-based REST backend integrating OmniParser for UI element detection, GPT-5.1 for structured JSON action plans, and an execution layer mapping elements to precise pixel-level clicks and typing actions.
+
+
 🏙️ **Real-Time Pedestrian Analytics System**  
 Deployed YOLOv8 + DeepSORT–based detection and tracking system across 300 intersections, integrating aerial imagery for trajectory mapping with >85% accuracy.
 
