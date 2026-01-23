@@ -51,9 +51,9 @@ Benchmarked COCO-based detection models with dataset optimization and JSON evalu
 
 ---
 ## 🔬 Main Highlights
-- 🏥 **https://github.com/ka234388/Multi-Disease-AI-Diagnostic-Platform ** — Unified deep learning system with Grad-CAM explainability for medical image diagnosis  
-- ⚖️ **Explainable Gender Bias Detection** — Vision-language model with chain-of-thought reasoning for bias analysis  
-- 🖥️ **Explainable GUI Visual Agent** — Intelligent GUI automation using OmniParser JSON with transparent reasoning
+- 🏥 **Multi-Disease-AI-Diagnostic-Platform**  Unified deep learning system with Grad-CAM explainability for medical image diagnosis - https://github.com/ka234388/Multi-Disease-AI-Diagnostic-Platform  
+- ⚖️ **Explainable Gender Bias Detection**  Vision-language model with chain-of-thought reasoning for bias analysis  
+- 🖥️ **Explainable GUI Visual Agent**  Intelligent GUI automation using OmniParser JSON with transparent reasoning
 
 
 ### 🌐 Connect With Me  
