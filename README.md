@@ -17,7 +17,7 @@ My background bridges both **research and industry**, focusing on deploying robu
 
 ---
 
-### 🧩 Highlight Projects  
+### 🧩 Interesting Projects  
 
 🧠 **Visual Agent with Explainable Action Decisions**  
 Built a vision-based computer-use agent that orchestrates a GPT-5.1 VLM with a perception–reasoning–action pipeline for autonomous, explainable UI form-filling on real desktops.[file:2]  
@@ -50,7 +50,7 @@ Benchmarked COCO-based detection models with dataset optimization and JSON evalu
 **Other Skills:** Flask APIs, SDLC, Agile, Model Optimization, AI Ethics  
 
 ---
-## 🔬 Highlights
+## 🔬 Main Highlights
 - 🏥 **Multi-Disease AI Diagnostic Platform** — Unified deep learning system with Grad-CAM explainability for medical image diagnosis  
 - ⚖️ **Explainable Gender Bias Detection** — Vision-language model with chain-of-thought reasoning for bias analysis  
 - 🖥️ **Explainable GUI Visual Agent** — Intelligent GUI automation using OmniParser JSON with transparent reasoning
