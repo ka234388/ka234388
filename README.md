@@ -43,7 +43,7 @@ Benchmarked COCO-based detection models with dataset optimization and JSON evalu
 ---
 
 ### 🧰 Tech Toolbox  
-**Languages:** Python, C++, R, MATLAB, Java
+**Languages:** Python, C++, R, MATLAB, Java, C#
 **Frameworks:** PyTorch, TensorFlow, Keras, Scikit-learn, Transformers  
 **Specialties:** YOLO, R-CNN, SAM2, Diffusion Models, LoRA, RAG, Agentic AI, LLMs, Reinforcement Learning, Model Fine-Tuning  
 **Tools & Platforms:** Docker, Azure, AWS (EC2/S3), Newton HPC, Git, Jira  
