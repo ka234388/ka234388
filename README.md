@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ka234388/ka234388/main/assets/banner-gradient.svg" alt="Banner" width="100%">
+  <img src="https://github.com/ka234388/ka234388/blob/main/GitHub-banner.jpg" alt="Banner" width="100%">
 </p>
 
 <h1 align="center">Hey 👋 I'm Karthika Ramasamy</h1>
