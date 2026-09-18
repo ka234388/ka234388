@@ -6,7 +6,7 @@
 <h1 align="center">Hey 👋 I'm Karthika Ramasamy</h1>
 
 <p align="center">
-  <b>Senior Full Stack & AI Engineer @COMPETE • AI Research Assistant (CV) @UCF</b><br>
+  <b>Senior Full Stack & AI Engineer • AI Research Assistant (CV) </b><br>
   M.S. Artificial Intelligence, specialized in Computer Vision @ UCF • Ex-Infoscian • Full Stack Developer<br>
   Open to Full Stack / AI-Integrated Full Stack / Computer Vision Engineering roles
 </p>
