@@ -49,7 +49,7 @@ I like building the whole thing — the model, the API around it, and the interf
 ## 💼 Experience
 
 **Senior Full Stack Developer & AI Integration** — COMPETE BePlayFuel — *Feb 2026 – Present*
-Built a full-stack, AI-powered video-processing application (Human Motion Analysis System): integrated a YOLOv8 pose-estimation + MLP classification pipeline into the backend, translating model output into real-time scoring and user-facing feedback across REST APIs and a React.js UI. `Deep Learning · Machine Learning · Python · Java · React.js · OpenCV · PyTorch · YOLOv8 · Flask/FastAPI · GCP · Docker`
+Built a full-stack, AI-powered video-processing application: integrated a YOLOv8 pose-estimation + MLP classification pipeline into the backend, translating model output into real-time scoring and user-facing feedback across REST APIs and a React.js UI. `Deep Learning · Machine Learning · Python · Java · React.js · OpenCV · PyTorch · YOLOv8 · Flask/FastAPI · GCP · Docker`
 
 **University of Central Florida** — Part-time — *10 mos*
 - **Graduate Teaching Assistant** — *Jan 2026 – May 2026*
@@ -60,10 +60,10 @@ Built a full-stack, AI-powered video-processing application (Human Motion Analys
 Built a cloud-deployed, AI-powered Multimodal Visual Recognition System: integrated a MediaPipe pose-estimation pipeline with an MLP classifier into a Python backend, delivering real-time scoring at 30 FPS through a responsive UI. `Deep Learning · Machine Learning · Python · Flask/FastAPI · MediaPipe · Streamlit · GCP`
 
 **Technology Analyst (Java Full Stack Developer)** — Infosys — Chennai, Tamil Nadu, India · Hybrid — *Mar 2022 – Jul 2024*
-Designed and built enterprise application components (Java, J2EE, Spring Boot, REST/SOAP APIs) for a knowledgebase support system, plus CI/CD pipelines and AWS migration support. `Databases · Git · Java · J2EE · Spring Boot · AWS`
+Designed and built enterprise application components Java, J2EE, Spring Boot, REST/SOAP APIs, plus CI/CD pipelines and AWS migration support. `Databases · Git · Java · J2EE · Spring Boot · AWS`
 
 **Java Developer** — N2 Software Services Private Limited — Greater Chennai Area · Hybrid — *Aug 2014 – Feb 2022*
-Delivered scalable Java/J2EE applications (Resort Booking System, Central Hiring Management System) across the full SDLC using Spring, Hibernate, and microservice patterns. `Databases · Git`
+Delivered scalable Java/J2EE applications across the full SDLC using Spring, Hibernate, and microservice patterns. `Databases · Git`
 
 *Full project details and metrics are in my [résumé](https://www.linkedin.com/in/ramasamy-karthika) — happy to walk through any of these.*
 
