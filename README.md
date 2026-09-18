@@ -161,7 +161,7 @@ Delivered scalable Java/J2EE applications across the full SDLC using Spring, Hib
   <a href="https://github.com/ka234388">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
-  <a href="mailto:karthika2094@gmail.com">
+  <a href="mailto:karthikarmcs@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
 </p>
