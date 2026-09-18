@@ -8,7 +8,7 @@
 <p align="center">
   <b>Senior Full Stack / AI Engineer @COMPETE • AI Research Assistant (CV) @UCF</b><br>
   M.S. Artificial Intelligence, specialized in Computer Vision @ UCF • Ex-Infoscian • Full Stack Developer<br>
-  Orlando, FL • Open to Full Stack / AI-Integrated Full Stack / Computer Vision Engineering roles
+  Open to Full Stack / AI-Integrated Full Stack / Computer Vision Engineering roles
 </p>
 
 <!-- Typing animation -->
